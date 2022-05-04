@@ -1,0 +1,16 @@
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.Form1.resources
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.csproj.GenerateResource.cache
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.AssemblyInfoInputs.cache
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.AssemblyInfo.cs
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\BlocoDeNotas.exe
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\BlocoDeNotas.deps.json
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\BlocoDeNotas.runtimeconfig.json
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\BlocoDeNotas.dll
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\ref\BlocoDeNotas.dll
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\bin\Debug\net6.0-windows\BlocoDeNotas.pdb
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.dll
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\ref\BlocoDeNotas.dll
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.pdb
+C:\Repositórios\CsharpTutorialMS\BlocoDeNotas\BlocoDeNotas\obj\Debug\net6.0-windows\BlocoDeNotas.genruntimeconfig.cache

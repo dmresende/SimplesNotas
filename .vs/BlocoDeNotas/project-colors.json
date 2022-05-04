@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fd7a6b85-30fe-40af-96f0-739cd2fe1602": {
+      "ProjectGuid": "fd7a6b85-30fe-40af-96f0-739cd2fe1602",
+      "DisplayName": "BlocoDeNotas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
